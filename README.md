@@ -8,6 +8,8 @@ Olá Programador, estou criando esse guia prático para um estudo focado na prog
 ## 🗺️ Roadmap
 - [Roadmap em diversas áreas](https://roadmap.sh)
 
+## 📓 Curso de programação com Certificação 
+- [FreeCodCamp](https://www.freecodecamp.org/portuguese/)
 
 ## 💻 Curso Ciência da Computação (Harvard)
 - [CS50-Ciência da Computação em PT/BR](https://cs50xemportugues.github.io/2023/semanas/0.html)
