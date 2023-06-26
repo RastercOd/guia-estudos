@@ -21,7 +21,7 @@ Olá Programador, estou criando esse guia prático para um estudo focado na prog
 
 ## :earth_asia: Curso de Inglês 
 
-- [Curso de Inglês do Curso e Video](https://www.youtube.com/watch?v=QoTfOVYXmUc&list=PLHz_AreHm4dl8FBQLBC0bWSdL2FGmZnne)
+- [Curso de Inglês do Curso em Video](https://www.youtube.com/watch?v=QoTfOVYXmUc&list=PLHz_AreHm4dl8FBQLBC0bWSdL2FGmZnne)
 
 
 
