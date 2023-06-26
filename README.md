@@ -21,6 +21,9 @@ Olá Programador, estou criando esse guia prático para um estudo focado na prog
 - [Curso de HTML e CSS](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
 - [Curso de Python](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
 
+## 🎮 Programe Jogando
+- [Coding Games](https://www.codingame.com/start)
+
 ## :earth_asia: Curso de Inglês 
 
 - [Curso de Inglês do Curso em Video](https://www.youtube.com/watch?v=QoTfOVYXmUc&list=PLHz_AreHm4dl8FBQLBC0bWSdL2FGmZnne)
