@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/alestanalves/guia-ackercode">
+  <a href="https://github.com/RastercOd">
     <img src="https://raw.githubusercontent.com/arthurspk/guiadevbrasil/main/images/guia.png" width="300" height="300">
   </a>
   <h1 align="center"> Seu guia de estudos de Programção</h1>
@@ -46,7 +46,7 @@ Olá Programador, estou criando esse guia prático para um estudo focado na prog
 [![Instagram](https://camo.githubusercontent.com/5c3f3164b340475c38f1ec3d8c6d0c6e8656fbccac25d06cfb86477079b88638/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532334534343035462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465)](https://www.instagram.com/dglas_f/)
 
 <p align="center">
-  <a href="">
+  <a href="https://github.com/RastercOd">
     <img src="https://github.com/RastercOd/README/assets/118366405/53abdf88-9fe8-43d4-8804-addcc44fa8d6" width="300" height="300">
   </a>
   <h1 align="center"> </h1>
