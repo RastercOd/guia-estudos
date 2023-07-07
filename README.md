@@ -47,7 +47,8 @@ Olá Programador, estou criando esse guia prático para um estudo focado na prog
 
 <p align="center">
   <a href="https://github.com/RastercOd">
-    <img src="https://github.com/RastercOd/README/assets/118366405/53abdf88-9fe8-43d4-8804-addcc44fa8d6" width="300" height="300">
+    <img src="https://github.com/RastercOd/guia-estudos/assets/118366405/9a84d203-bf84-4495-98b3-aaa451650563" width="300" height="300">
   </a>
   <h1 align="center"> </h1>
 </p>
+
